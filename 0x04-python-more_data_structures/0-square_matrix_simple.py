@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-square_matrix_simple.py
-# Tsedalu ashenafi <Tsedexashu08@github.com>
+# Brennan D Baraban <375@holbertonschool.com>
 
 
 def square_matrix_simple(matrix=[]):
