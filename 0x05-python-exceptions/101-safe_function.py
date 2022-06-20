@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tsedalu Ashenafi <Tsedexashu08@github.com>
 
 import sys
 
