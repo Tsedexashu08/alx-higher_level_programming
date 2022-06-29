@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-rectangle.py
-# Tsedalu Ashenafi <Tsedexashu08@github.com>
+# Brennan D Baraban <375@holbertonschool.com>
 """Defines a Rectangle class."""
 
 
@@ -65,4 +65,3 @@ class Rectangle:
             if i != self.__height - 1:
                 rect.append("\n")
         return ("".join(rect))
-
